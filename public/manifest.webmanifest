@@ -1,0 +1,18 @@
+{
+  "name": "GLD & DR 全文筛选工作台",
+  "short_name": "全文筛选",
+  "description": "降糖药与糖尿病视网膜结局系统综述全文筛选工具",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#16395f",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
